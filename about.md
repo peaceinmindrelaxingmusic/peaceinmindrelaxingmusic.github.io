@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About - 🧘 Relax Your Mind - Relaxing Music 🧘
+title: About - 🧘 Peace In Mind - Relaxing Music 🧘
 permalink: /about/
 
 date: 2020-01-05
@@ -30,4 +30,4 @@ Github: https://github.com/relaxyourmindrelaxingmusic
 
 ### Contact me
 
-[email@domain.com](mailto:relaxyourmindrelaxingmusic@gmail.com)
+[peaceinmindrelaxingmusic@gmail.com](mailto:relaxyourmindrelaxingmusic@gmail.com)
