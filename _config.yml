@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: 🧘 Relax Your Mind - Relaxing Music 🧘
+name: 🧘 Peace In Mind - Relaxing Music 🧘
 
 # Short bio or description (displayed in the header)
 description: ♫ Relaxing Music for Relaxation, Meditation, Mind and Soul 🧘 ♫ Enjoy our music here below👇
@@ -19,16 +19,16 @@ avatar: https://avatars1.githubusercontent.com/u/77027628?s=400&u=b5d77be597d256
 # Includes an icon in the footer for each username you enter
 footer-links:
   # dribbble: relaxyourmindrelaxingmusic
-  email: relaxyourmindrelaxingmusic@gmai.com
-  facebook: relaxyourmindrelaxingmusic
+  email: peaceinmindrelaxingmusic@gmai.com
+  facebook: peaceinmindrelaxingmusic
   # flickr: relaxyourmindrelaxingmusic
-  github: relaxyourmindrelaxingmusic
-  instagram: relaxyourmindrelaxingmusic
+  github: peaceinmindrelaxingmusic
+  instagram: peaceinmindrelaxingmusic
   # linkedin: relaxyourmindrelaxingmusic
   # pinterest: relaxyourmindrelaxingmusic
   # rss: relaxyourmindrelaxingmusic
-  twitter: rmrelaxingmusic
-  youtube: channel/UCMcqkxvaRHYSMn8RkLq_E-A # channel/<your_long_string> or user/<user-name>
+  twitter: peaceinmindrelaxingmusic
+  youtube: channel/UCeKMkKHkktzIpYCMCp11OLg-A # channel/<your_long_string> or user/<user-name>
   # googleplus: relaxyourmindrelaxingmusic # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: relaxyourmindrelaxingmusic.com
+url: peaceinmindrelaxingmusic.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/relaxyourmindrelaxingmusic.github.io"
+baseurl: "/peaceinmindrelaxingmusic.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
