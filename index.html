@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<!-- Subscrive Button -->
+<div style="width:100%; display: flex; justify-content: center;">
+  <div class="g-ytsubscribe" data-channelid="UCeKMkKHkktzIpYCMCp11OLg" data-layout="full" data-count="default"></div>
+</div>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -16,3 +21,5 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+<script src="https://apis.google.com/js/platform.js"></script>
