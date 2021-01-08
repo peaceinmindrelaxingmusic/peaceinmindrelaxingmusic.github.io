@@ -59,19 +59,19 @@ Till today we have posted the following:
 [Relaxing Sleep Music • Deep Sleeping Music, Meditation Music, Relaxing Music, Stress Relief](https://youtu.be/w8-6h3Peljg)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/w8-6h3Peljg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/w8-6h3Peljg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 [Relaxing Sleep Music • Deep Sleeping Music, Meditation Music, Relaxing Music, Stress Relief](https://youtu.be/NUWV0ur9NPY)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/NUWV0ur9NPY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NUWV0ur9NPY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 [Relaxing Sleep Music • Deep Sleeping Music, Meditation Music, Relaxing Music, Stress Relief](https://youtu.be/_Vu_Vea7e1M)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/_Vu_Vea7e1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_Vu_Vea7e1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
