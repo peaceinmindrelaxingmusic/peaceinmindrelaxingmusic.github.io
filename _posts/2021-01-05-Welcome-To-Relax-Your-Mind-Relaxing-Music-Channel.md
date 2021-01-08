@@ -15,10 +15,10 @@ Till today we have posted the following:
 
 ## Youtube videos: 
 
-[Relax Your Mind With Super Deep Relaxing Music for Focus, Study, Meditation and Sleep ☯](https://www.youtube.com/watch?v=WePPOOvNgaQ&list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b&index=1&ab_channel=RelaxYourMind-RelaxingMusic)
+[Peace in Mind & Peaceful Music for Meditation & Stress Relief, Deep Sleep, Relax, Healing Music](https://youtu.be/SK1Ecvf86Xc)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WePPOOvNgaQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SK1Ecvf86Xc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 [Relax your mind with Beautiful Relaxing Music for Focus, Meditation, Study, Sleep and Relaxation 🧘](https://www.youtube.com/watch?v=Ei2u_zPEQuI&list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b&index=2&t=20s&ab_channel=RelaxYourMind-RelaxingMusic)
