@@ -21,10 +21,10 @@ Till today we have posted the following:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SK1Ecvf86Xc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Relax your mind with Beautiful Relaxing Music for Focus, Meditation, Study, Sleep and Relaxation 🧘](https://www.youtube.com/watch?v=Ei2u_zPEQuI&list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b&index=2&t=20s&ab_channel=RelaxYourMind-RelaxingMusic)
+[Peace In Mind & Relaxing Music • Deep Sleep Music, Meditation Music, Stress Relief 😌](https://youtu.be/TFVtBdKoJlw)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ei2u_zPEQuI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/TFVtBdKoJlw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 [Relax your mind with Beautiful Relaxing Music for Focus, Work, Productivity and Study 🧘](https://www.youtube.com/watch?v=vdMSfoQRBK4&list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b&index=3&t=24s&ab_channel=RelaxYourMind-RelaxingMusic)
@@ -33,51 +33,70 @@ Till today we have posted the following:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/vdMSfoQRBK4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Relax your mind with 1 Hour Of Beautiful, Relaxing Music To Meditate With Nature Deep Sounds🧘](https://www.youtube.com/watch?v=OhpvP6X5yRc&list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b&index=4&ab_channel=RelaxYourMind-RelaxingMusic)
+[Peace In Mind & Relaxing Music, Meditation Music, Stress Relief, Yoga Music](https://youtu.be/DKJZxl6u2-g)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/OhpvP6X5yRc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DKJZxl6u2-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Relax your mind with Beautiful ASMR Relaxing Music for Stress Relief, Meditation and Relaxation 🧘](https://www.youtube.com/watch?v=q-JWd2nUisA&list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b&index=5&t=599s&ab_channel=RelaxYourMind-RelaxingMusic)
+[Peace In Mind & Relaxing Sounds of Water for Sleep, Meditation Music, Healing Music, Stress Relief](https://youtu.be/UU_wkcSx8Gk)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/q-JWd2nUisA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UU_wkcSx8Gk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Relax your mind with Beautiful Relaxing Music for Focus, Stress Relief, Study, Sleep and Relaxation🧘](https://www.youtube.com/watch?v=diz4TtKdhWE&list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b&index=6&t=1405s&ab_channel=RelaxYourMind-RelaxingMusic)
+[Relaxing Sleep Music • Deep Sleeping Music, Meditation Music, Relaxing Music, Stress Relief](https://youtu.be/jqKkllQIPVo)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/diz4TtKdhWE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jqKkllQIPVo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+[Relaxing Sleep Music • Deep Sleeping Music, Meditation Music, Relaxing Music, Stress Relief](https://youtu.be/w8-6h3Peljg)
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/w8-6h3Peljg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+[Relaxing Sleep Music • Deep Sleeping Music, Meditation Music, Relaxing Music, Stress Relief](https://youtu.be/NUWV0ur9NPY)
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/NUWV0ur9NPY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+[Relaxing Sleep Music • Deep Sleeping Music, Meditation Music, Relaxing Music, Stress Relief](https://youtu.be/_Vu_Vea7e1M)
+
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/_Vu_Vea7e1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Playlists:
 
-[Relax Your Mind Meditation & Relaxing Music With Sounds Of Nature](https://www.youtube.com/watch?v=WePPOOvNgaQ&list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b)
+[Meditation & Healing  Music For Restful Sleep](https://www.youtube.com/playlist?list=PL6gVVCnuFtNXd-nNMxaOQLueyHCKRqah-)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLL_9Gx2Xclt1WGuugrK9117B6iEUQpm4b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6gVVCnuFtNXd-nNMxaOQLueyHCKRqah-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Relax Your Mind Meditation, Music For Sleeping, Stress Relief And Healing Music, Positivity](https://www.youtube.com/watch?v=WePPOOvNgaQ&list=PLL_9Gx2Xclt0N48urusjqEdvuOTay5R4M)
+[Positive Thinking Meditation, Be Present, Destroy Unconscious Negativity and Anxiety](https://www.youtube.com/playlist?list=PL6gVVCnuFtNV5DcJg8e1zFpDruU1LphFe)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLL_9Gx2Xclt0N48urusjqEdvuOTay5R4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6gVVCnuFtNV5DcJg8e1zFpDruU1LphFe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Relax Your Mind Calm And Soothing Music, Relaxation, Spa And Yoga Music, Chilout, Meditation](https://www.youtube.com/watch?v=WePPOOvNgaQ&list=PLL_9Gx2Xclt0pryKMiX89mMJzgYLi0jP0)
+[Study Music, Focus Music, Concentration, Work Music, Meditation](https://www.youtube.com/playlist?list=PL6gVVCnuFtNW6e0_sBBkoRzYh3DGA9c_D)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLL_9Gx2Xclt0pryKMiX89mMJzgYLi0jP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6gVVCnuFtNW6e0_sBBkoRzYh3DGA9c_D" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Relax Your Mind Quarantine Deep And Restful Sleep Music & Relaxation, Peaceful and Calming Music, Spa, Yoga, Deep Sleep, Meditation](https://www.youtube.com/watch?v=WePPOOvNgaQ&list=PLL_9Gx2Xclt2gEo9opMtHyMcdqZPIOB1A)
+[Quarantine Sleep Music Playlist & Meditation & Stress Relief](https://www.youtube.com/playlist?list=PL6gVVCnuFtNXZrPTd0OUxQqB-Khyd0lbI)
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLL_9Gx2Xclt2gEo9opMtHyMcdqZPIOB1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6gVVCnuFtNXZrPTd0OUxQqB-Khyd0lbI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Relax Your Mind Mediation Music, Focus, Study Music, Brain Power And Memory, Concentration, Work Music](https://www.youtube.com/watch?v=WePPOOvNgaQ&list=PLL_9Gx2Xclt3SL0hD2mRTRLvMBqXLMBfn)
+[Relax Your Mind Mediation Music, Focus, Study Music, Brain Power And Memory, Concentration, Work Music](https://www.youtube.com/watch?v=SK1Ecvf86Xc&list=PL6gVVCnuFtNXZrPTd0OUxQqB-Khyd0lbI&ab_channel=PeaceInMind)
 
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLL_9Gx2Xclt3SL0hD2mRTRLvMBqXLMBfn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
